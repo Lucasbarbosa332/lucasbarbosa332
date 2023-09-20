@@ -1,8 +1,12 @@
-### ola eu sou o lucas 👊
+### ola eu sou o lucas Barbosa da Silva sou de minas gerais 👊
 
-sou progamador em busca de uma oportunidade de trabalho 💻 
+* 💻 sou progamador em busca de uma oportunidade de trabalho
+* 🖥️ curso analise e desenvolvimento de sistemas
+* 📱 Desenvolvedor front-end
+* 😄 Sempre em busca de algo novo disposto a ajudar pessoas e tambem ser ajudado
+* 📩 Para entrar em contato comigo lucasraphael332@gmail.com
 
-
+* 🖱️ Voce pode me encontrar 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa-2b5b58238)
 
 
