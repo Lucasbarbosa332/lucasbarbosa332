@@ -1,8 +1,9 @@
-### ola eu sou o lucas Barbosa da Silva sou de minas gerais 👊
+### ola eu sou o lucas Barbosa da Silva sou de minas gerais  👊
+
 
 * 💻 sou progamador em busca de uma oportunidade de trabalho
-* 🖥️ curso analise e desenvolvimento de sistemas
-* 📱 Desenvolvedor front-end
+* 🖥️ curso ciência da computação
+* 📱 Dev full stack em java 
 * 😄 Sempre em busca de algo novo disposto a ajudar pessoas e tambem ser ajudado
 * 📩 Para entrar em contato comigo lucasraphael332@gmail.com
 
