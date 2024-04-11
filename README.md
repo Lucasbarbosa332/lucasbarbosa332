@@ -7,7 +7,7 @@
 * 🖥️ curso ciência da computação 
 * Computer Science Course
 * 📱 Dev full stack em java
-*  🚥 Front-end em javaScript e CSS HTML
+*  🚥 Front-end em javaScript🟡 e CSS🔵 HTML🔴
 *  ![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8) ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
 * 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis.
 *  Always looking for something, new willing to help people, and also to be helped, passionate about technology since I was a child I hope to be able to build incredible projects
