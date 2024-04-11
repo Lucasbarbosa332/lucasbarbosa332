@@ -1,15 +1,19 @@
-### Ola! eu sou lucas barbosa sou do brasil
-### hello, I'm lucas barbosa I'm from brazil👊
+### Ola! eu sou Lucas barbosa sou do Brasil
+### hello, I'm Lucas barbosa I'm from Brazil👊
 
-
+![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=dark)
 * 💻 sou progamador em busca de uma oportunidade de trabalho
- I'm a programmer looking for a job opportunity
+* I'm a programmer looking for a job opportunity
 * 🖥️ curso ciência da computação 
-Computer Science Course
-* 📱 Dev full stack em java 
-*  🚥 Front-end em javaScript e CSS HTML 
-* 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis. Always looking for something, new willing to help people, and also to be helped, passionate about technology since I was a child I hope to be able to build incredible projects
+* Computer Science Course
+* 📱 Dev full stack em java
+![gif](https://tenor.com/bObZ9.gif)
+*  🚥 Front-end em javaScript e CSS HTML
+*  ![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8)
+* 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis.
+*  Always looking for something, new willing to help people, and also to be helped, passionate about technology since I was a child I hope to be able to build incredible projects
 * 📩 Para entrar em contato comigo : To contact me  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasraphael332@gmail.com)
+
 
 * 🖱️ Voce pode me encontrar 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa-2b5b58238)
@@ -18,13 +22,15 @@ Computer Science Course
 
 ### linguagem primaria 
 
+<div>
+</div>
 <div style="dispaly: inline_block"><br/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  
+  <img aling="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 ### segundarias 
@@ -42,11 +48,6 @@ Computer Science Course
 <img aling="center" alt="html" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img aling="center" alt="html" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img aling="center" alt="html" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img aling="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="html" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
-
-
- 
 </div>
 
