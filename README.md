@@ -32,6 +32,7 @@
   <img aling="center" alt="html" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img aling="center" alt="html" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
 ### segundarias 
 
 <div style="dispaly: inline_block"><br/>
