@@ -9,10 +9,12 @@
 * 📱 Dev full stack em java
 *  🚥 Front-end em javaScript🟡 e CSS🔵 HTML🔴
 *  ![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8) ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
+*  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 * 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis.
 *  Always looking for something, new willing to help people, and also to be helped, passionate about technology since I was a child I hope to be able to build incredible projects
 * 📩 Para entrar em contato comigo : To contact me  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasraphael332@gmail.com)
-* 🖱️ Voce pode me encontrar 
+* 🖱️ Voce pode me encontrar
+* ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa-2b5b58238)
 ### tecnologias que eu possuo habilidades para trabalhar 
 
