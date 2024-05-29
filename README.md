@@ -7,7 +7,7 @@
 * I'm a programmer looking for a job opportunity
 * 🖥️ curso ciência da computação 
 * Computer Science Course
-* 📱 Dev full stack em java
+* 📱 Web full Stack
 *  🚥 Front-end em javaScript🟡 CSS🔵 é HTML🔴
 *   ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
 *  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
