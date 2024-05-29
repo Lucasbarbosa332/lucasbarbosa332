@@ -1,5 +1,5 @@
-### Ola! eu sou Lucas barbosa sou do Brasil
-### hello, I'm Lucas barbosa I'm from Brazil👊
+### Ola! eu sou Lucas barbosa sou do Brasil!
+### hello, I'm Lucas barbosa I'm from Brazil!
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=dark)![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
