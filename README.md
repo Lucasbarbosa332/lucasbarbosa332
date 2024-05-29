@@ -1,7 +1,7 @@
 ### Ola! eu sou Lucas barbosa sou do Brasil
 ### hello, I'm Lucas barbosa I'm from Brazil👊
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=dark)
+![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=dark)![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 * 💻 sou progamador em busca de uma oportunidade de trabalho
 * I'm a programmer looking for a job opportunity
@@ -9,7 +9,7 @@
 * Computer Science Course
 * 📱 Dev full stack em java
 *  🚥 Front-end em javaScript🟡 e CSS🔵 HTML🔴
-*  ![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8) ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
+*   ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
 *  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 * 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis.
 *  Always looking for something, new willing to help people, and also to be helped, passionate about technology since I was a child I hope to be able to build incredible projects
