@@ -11,8 +11,8 @@
 *  🚥 Front-end em javaScript🟡 CSS🔵 é HTML🔴
 *   ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
 *  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-* 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis.
-*  Always looking for something, new willing to help people, and also to be helped, passionate about technology since I was a child I hope to be able to build incredible projects
+*  Sou deselvolvedor Front-End, apaixonado por aprender e conhecer pessoas, durante meu tempo como deselvolvedor fui capaz de aprender bastante sobre tecnologias como React JS,HTML,CSS,JavaScript,Git,Node JS,Java,PHP,MySql, é tive a oportunidade de por em pratica varias Soft skiils como comunicação, inteligencia emocional e colaboração. Através dessas praticas consegui adquirir conhecimentos concretos na resolução de problemas quando se trata de equipe de deselvolvimento.
+* 
 * 📩 Para entrar em contato comigo : To contact me  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasraphael332@gmail.com)
 * 🖱️ Voce pode me encontrar
 * 
