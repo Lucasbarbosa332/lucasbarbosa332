@@ -8,7 +8,7 @@
 * 🖥️ curso ciência da computação 
 * Computer Science Course
 * 📱 Dev full stack em java
-*  🚥 Front-end em javaScript🟡 e CSS🔵 HTML🔴
+*  🚥 Front-end em javaScript🟡 CSS🔵 é HTML🔴
 *   ![](https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/programming.gif)
 *  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 * 😄 Sempre em busca de algo, novo disposto a ajudar pessoas, e também ser ajudado, apaixonado por tecnologia desde criança espero poder contruir projetos incríveis.
