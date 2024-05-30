@@ -15,7 +15,7 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
   <p align="center"><img width=50% src="bemvindo-15.gif"></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- <h1 align="center">😀 SOBRE</h1>
+ <h1 align="center"> You got it ?</h1>
 <p align="center" class="typewriter-text">
 
 Hi, I'm Lucas, a Front-End enthusiast passionate about continuous learning and human connections. During my journey as a developer, I have immersed myself in a vast ocean of technologies, including React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP, and MySql.
