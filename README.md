@@ -4,14 +4,7 @@
 ![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=dark)![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 (https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<div class="sketchfab-embed-wrapper">
-    <iframe title="Logotipos 3D - Aprenda Programar" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="400" src="https://sketchfab.com/models/562ee24508584bb889e1ff12e656abe5/embed?autospin=1&autostart=1&preload=1&ui_theme=dark"> </iframe>
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-        <a href="https://sketchfab.com/3d-models/logotipos-3d-aprenda-programar-562ee24508584bb889e1ff12e656abe5?utm_medium=embed&utm_campaign=share-popup&utm_content=562ee24508584bb889e1ff12e656abe5" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Logotipos 3D - Aprenda Programar</a> por
-        <a href="https://sketchfab.com/titopetri?utm_medium=embed&utm_campaign=share-popup&utm_content=562ee24508584bb889e1ff12e656abe5" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">titopetri</a> no
-        <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=562ee24508584bb889e1ff12e656abe5" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-    </p>
-</div>
+[sketchfab]562ee24508584bb889e1ff12e656abe5[/sketchfab] [url=${model.viewerUrl}]${model.name}[/url] by [url=${model.user.profileUrl}]${model.user.displayName}[/url] on [url=https://sketchfab.com]Sketchfab[/url]
 * 😁 Sou deselvolvedor Front-End, apaixonado por aprender e conhecer pessoas, durante meu tempo como deselvolvedor fui capaz de aprender bastante sobre tecnologias como React JS,HTML,CSS,JavaScript,Git,Node JS,Java,PHP,MySql, é tive a oportunidade de por em pratica varias Soft skiils como comunicação, inteligencia emocional e colaboração. Através dessas praticas consegui adquirir conhecimentos concretos na resolução de problemas quando se trata de equipe de deselvolvimento.
 * 😁 I am a Front-End developer, passionate about learning and meeting people, during my time as a developer I was able to learn a lot about technologies such as React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP, MySql, and I had the opportunity to put into practice several Soft skiils such as communication, emotional intelligence and collaboration. Through these practices I was able to acquire concrete knowledge in problem solving when it comes to development team.
 * 📩 Para entrar em contato comigo : To contact me  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasraphael332@gmail.com)
