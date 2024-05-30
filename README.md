@@ -12,7 +12,7 @@ Não se restringindo ao código, estou sempre expandindo meus horizontes linguí
 Estou animado para continuar minha jornada de aprendizado e colaboração, e estou sempre aberto a novas oportunidades e desafios que possam surgir no caminho.
 
 </p>
-  <p align="center"><img width=50% src="bemvindo-15.gif"></img></p>
+  <p align="center"><img width=50% src=""></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  <h1 align="center"> You got it ?</h1>
