@@ -12,7 +12,7 @@ Não se restringindo ao código, estou sempre expandindo meus horizontes linguí
 Estou animado para continuar minha jornada de aprendizado e colaboração, e estou sempre aberto a novas oportunidades e desafios que possam surgir no caminho.
 
 </p>
-  <p align="center"><img width=50% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/openart-image_nw0AIiik_1717058010803_raw.jpg"></img></p>
+  <p align="center"><img width=50% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/71a38d2d8cd692a63fbde70f899b3afc.gif"></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  <h1 align="center"> You got it ?</h1>
