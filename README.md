@@ -4,7 +4,10 @@
 ![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=dark)![Lucas Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&langs_count=8)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 (https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-[sketchfab]562ee24508584bb889e1ff12e656abe5[/sketchfab] [url=${model.viewerUrl}]${model.name}[/url] by [url=${model.user.profileUrl}]${model.user.displayName}[/url] on [url=https://sketchfab.com]Sketchfab[/url]
+* [![Modelo 3D](https://sketchfab.com/models/562ee24508584bb889e1ff12e656abe5/thumbnails/default/preview.jpg)](https://sketchfab.com/models/562ee24508584bb889e1ff12e656abe5)
+
+[**Logotipos 3D - Aprenda Programar**](https://sketchfab.com/models/562ee24508584bb889e1ff12e656abe5) por [**titopetri**](https://sketchfab.com/titopetri) no [Sketchfab](https://sketchfab.com)
+
 * 😁 Sou deselvolvedor Front-End, apaixonado por aprender e conhecer pessoas, durante meu tempo como deselvolvedor fui capaz de aprender bastante sobre tecnologias como React JS,HTML,CSS,JavaScript,Git,Node JS,Java,PHP,MySql, é tive a oportunidade de por em pratica varias Soft skiils como comunicação, inteligencia emocional e colaboração. Através dessas praticas consegui adquirir conhecimentos concretos na resolução de problemas quando se trata de equipe de deselvolvimento.
 * 😁 I am a Front-End developer, passionate about learning and meeting people, during my time as a developer I was able to learn a lot about technologies such as React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP, MySql, and I had the opportunity to put into practice several Soft skiils such as communication, emotional intelligence and collaboration. Through these practices I was able to acquire concrete knowledge in problem solving when it comes to development team.
 * 📩 Para entrar em contato comigo : To contact me  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasraphael332@gmail.com)
