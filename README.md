@@ -2,28 +2,6 @@
 
 <h1 align="center">😀 SOBRE</h1>
 <p align="center" class="typewriter-text">Oiii! É um prazer ter você visitando meu git, sou um Desenvolvedor Web Fullstack apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crescimento e das pessoas.</p>
-
-<script>
-    // JavaScript para iniciar o efeito da máquina de escrever após o carregamento da página
-    document.addEventListener('DOMContentLoaded', function(){
-        var typed = document.querySelector('.typewriter-text');
-        var text = typed.textContent;
-        typed.textContent = '';
-        var charIndex = 0;
-        var typingEffect = setInterval(function() {
-            if (charIndex < text.length) {
-                typed.textContent += text.charAt(charIndex);
-                charIndex++;
-            } else {
-                clearInterval(typingEffect);
-            }
-        }, 80); // Ajuste este valor para controlar a velocidade de digitação
-    });
-</script>
-
-</body>
-</html>
-
   <p align="center"><img width=50% src="bemvindo-15.gif"></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
