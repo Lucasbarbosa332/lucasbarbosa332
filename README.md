@@ -8,8 +8,8 @@
  <h1 align="center">📈 STATUS</h1>
   <div align="center">
   <a href="https://github.com/Vitor545">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vitor545&theme=dracula&show_icons=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor545&layout=compact&theme=dracula" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Lucasbarbosa3325&theme=dracula&show_icons=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbarbosa332&layout=compact&theme=dracula" />
 </div>
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
