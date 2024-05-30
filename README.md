@@ -1,6 +1,6 @@
 
 
-<h1 align="center">😀 SOBRE</h1>
+<h1 align="center">😀 Quem sou eu </h1>
 <p align="center" class="typewriter-text">
 
 Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
@@ -18,13 +18,13 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
  <h1 align="center">😀 SOBRE</h1>
 <p align="center" class="typewriter-text">
 
-Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
+Hi, I'm Lucas, a Front-End enthusiast passionate about continuous learning and human connections. During my journey as a developer, I have immersed myself in a vast ocean of technologies, including React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP, and MySql.
 
-Além de dominar as ferramentas do ofício, desenvolvi habilidades interpessoais essenciais, como comunicação eficaz, inteligência emocional e colaboração em equipe. Acredito firmemente que uma equipe bem coordenada é capaz de superar desafios complexos e alcançar resultados excepcionais.
+In addition to mastering the tools of the trade, I developed essential interpersonal skills such as effective communication, emotional intelligence and team collaboration. I firmly believe that a well-coordinated team is capable of overcoming complex challenges and achieving exceptional results.
 
-Não se restringindo ao código, estou sempre expandindo meus horizontes linguísticos e culturais. Sou fluente em inglês e possuo habilidades intermediárias em japonês, buscando constantemente aprimorar minha proficiência para me conectar com pessoas ao redor do mundo de maneira mais profunda e significativa.
+Not restricted to code, I am always expanding my linguistic and cultural horizons. I am fluent in English and have intermediate Japanese skills, constantly seeking to improve my proficiency to connect with people around the world in a deeper and more meaningful way.
 
-Estou animado para continuar minha jornada de aprendizado e colaboração, e estou sempre aberto a novas oportunidades e desafios que possam surgir no caminho.
+I'm excited to continue my journey of learning and collaboration, and I'm always open to new opportunities and challenges that may arise along the way.
 
 </p>
 
