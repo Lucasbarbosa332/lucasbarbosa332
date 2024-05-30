@@ -17,12 +17,9 @@
 <h1 align="center">🧠 SKILLS</h1>
 <div align="center">
   <h4>Front-end</h4>
- ![image](https://github.com/Lucasbarbosa332/lucasbarbosa332/assets/145168605/905280b2-b135-4abb-9c7e-589d1e16d245)
-
- 
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ 
   <img height="60" src="https://user-images.githubusercontent.com/68698781/148557525-ac893d52-85e2-49a7-b7fc-8bd6c0464612.png">
   <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
