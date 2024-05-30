@@ -1,7 +1,8 @@
 
 
 <h1 align="center">😀 SOBRE</h1>
-<p align="center" class="typewriter-text">Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
+<p align="center" class="typewriter-text">
+Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
 
 Além de dominar as ferramentas do ofício, desenvolvi habilidades interpessoais essenciais, como comunicação eficaz, inteligência emocional e colaboração em equipe. Acredito firmemente que uma equipe bem coordenada é capaz de superar desafios complexos e alcançar resultados excepcionais.
 
