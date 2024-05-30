@@ -1,6 +1,6 @@
 
 
-<h1 align="center">😀 Quem sou eu </h1>
+<h1 align="center">😀 Quem sou eu ?</h1>
 <p align="center" class="typewriter-text">
 
 Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
