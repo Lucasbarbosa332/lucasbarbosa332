@@ -17,6 +17,9 @@
 <h1 align="center">🧠 SKILLS</h1>
 <div align="center">
   <h4>Front-end</h4>
+ ![image](https://github.com/Lucasbarbosa332/lucasbarbosa332/assets/145168605/905280b2-b135-4abb-9c7e-589d1e16d245)
+
+ 
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
