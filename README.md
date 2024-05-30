@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Typewriter Effect</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-    }
-    .typewriter-text {
-        overflow: hidden;
-        border-right: .15em solid orange; /* Cursor effect */
-        white-space: nowrap; /* Keep text on one line */
-        margin: 0 auto; /* Center text */
-        letter-spacing: .15em; /* Adjust spacing between characters */
-        animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-    }
-    /* Typewriter effect animation */
-    @keyframes typing {
-        from {
-            width: 0;
-        }
-        to {
-            width: 100%;
-        }
-    }
-    /* Blinking cursor animation */
-    @keyframes blink-caret {
-        from, to {
-            border-color: transparent;
-        }
-        50% {
-            border-color: orange;
-        }
-    }
-</style>
-</head>
-<body>
+
 
 <h1 align="center">😀 SOBRE</h1>
 <p align="center" class="typewriter-text">Oiii! É um prazer ter você visitando meu git, sou um Desenvolvedor Web Fullstack apaixonado por aprender vivo constantemente buscando aprender coisas novas que possam contribuir para meu crescimento e das pessoas.</p>
