@@ -1,6 +1,6 @@
 
 
-<h1 align="center">😀 Quem sou eu ?</h1>
+<h1 align="center"> 😎 Quem sou eu ?</h1>
 <p align="center" class="typewriter-text">
 
 Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
@@ -15,7 +15,7 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
   <p align="center"><img width=50% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/71a38d2d8cd692a63fbde70f899b3afc.gif"></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- <h1 align="center"> You got it ?</h1>
+ <h1 align="center"> 😎 You got it ?</h1>
 <p align="center" class="typewriter-text">
 
 Hi, I'm Lucas, a Front-End enthusiast passionate about continuous learning and human connections. During my journey as a developer, I have immersed myself in a vast ocean of technologies, including React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP, and MySql.
