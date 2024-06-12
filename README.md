@@ -18,13 +18,13 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
  <h1 align="center"> 😎 You got it ?</h1>
 <p align="center" class="typewriter-text">
 
-Hi, I'm Lucas, a Front-End enthusiast passionate about continuous learning and human connections. During my journey as a developer, I have immersed myself in a vast ocean of technologies, including React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP, and MySql.
+こんにちは、私はルーカスです。継続的な学習と人とのつながりに情熱を注ぐフロントエンド愛好家です。開発者としての歩みの中で、私は React JS、HTML、CSS、JavaScript、Git、Node JS、Java、PHP、MySql などのテクノロジーの広大な海に身を投じてきました。
 
-In addition to mastering the tools of the trade, I developed essential interpersonal skills such as effective communication, emotional intelligence and team collaboration. I firmly believe that a well-coordinated team is capable of overcoming complex challenges and achieving exceptional results.
+取引ツールを習得することに加えて、私は効果的なコミュニケーション、心の知能指数、チームのコラボレーションなどの重要な対人スキルを開発しました。私は、よく調整されたチームが複雑な課題を克服し、優れた成果を達成できると強く信じています。
 
-Not restricted to code, I am always expanding my linguistic and cultural horizons. I am fluent in English and have intermediate Japanese skills, constantly seeking to improve my proficiency to connect with people around the world in a deeper and more meaningful way.
+コードに限定されず、私は常に言語的および文化的な視野を広げています。私は英語が流暢で、日本語は中級程度で、より深く、より有意義な方法で世界中の人々とつながるために、常に自分の能力を向上させることを目指しています。
 
-I'm excited to continue my journey of learning and collaboration, and I'm always open to new opportunities and challenges that may arise along the way.
+私は学習とコラボレーションの旅を続けることに興奮しており、その過程で生じる可能性のある新しい機会や課題に対して常にオープンです。
 
 </p>
 
