@@ -17,7 +17,7 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h1 align="center">  
         <p align="center">
-            <img width="16" height="16" src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/OIP.jpeg" alt="Bandeira">
+            <img width="16" height="16" src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/R.jpeg" alt="Bandeira">
         </p>
         You got it ?
     </h1>
