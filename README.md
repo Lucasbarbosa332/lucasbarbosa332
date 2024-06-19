@@ -15,7 +15,8 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
   <p align="center"><img width=50% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/71a38d2d8cd692a63fbde70f899b3afc.gif"></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
- <h1 align="center"> 😎 You got it ?</h1>
+ <h1 align="center">  <p align="center"><img width=50% src=""></img></p>
+ You got it ?</h1>
 <p align="center" class="typewriter-text">
 
 こんにちは、私はルーカスです。継続的な学習と人とのつながりに情熱を注ぐフロントエンド愛好家です。開発者としての歩みの中で、私は React JS、HTML、CSS、JavaScript、Git、Node JS、Java、PHP、MySql などのテクノロジーの広大な海に身を投じてきました。
