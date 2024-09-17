@@ -17,7 +17,7 @@ Estou animado para continuar minha jornada de aprendizado e colaboração, e est
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h1 align="center">  
         <p align="center">
-            <img width="16" height="16" src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/R.jpeg" alt="Bandeira">
+            <img width="16" height="16" src="https://br.pinterest.com/pin/create/bookmarklet/?description=&is_video=%7Bvideo%7D&media=&origin=search&page=1&position=8&related_id=321242&url=https://www.flaticon.com/br/icone-gratis/japao_321242?term=flag+jap%25C3%25A3o" alt="Bandeira">
         </p>
         You got it ?
     </h1>
