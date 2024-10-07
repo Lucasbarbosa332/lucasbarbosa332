@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 😎 Quem sou eu ?</h1>
+<h1 align="center"> 😎 私は誰ですか？ </h1>
 <p align="center" class="typewriter-text">
 
 
