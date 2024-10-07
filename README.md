@@ -3,13 +3,6 @@
 <h1 align="center"> 😎 Quem sou eu ?</h1>
 <p align="center" class="typewriter-text">
 
-Olá, sou Lucas, um entusiasta da Front-End apaixonado por aprendizado contínuo e conexões humanas. Durante minha jornada como desenvolvedor, mergulhei em um vasto oceano de tecnologias, incluindo React JS, HTML, CSS, JavaScript, Git, Node JS, Java, PHP e MySql.
-
-Além de dominar as ferramentas do ofício, desenvolvi habilidades interpessoais essenciais, como comunicação eficaz, inteligência emocional e colaboração em equipe. Acredito firmemente que uma equipe bem coordenada é capaz de superar desafios complexos e alcançar resultados excepcionais.
-
-Não se restringindo ao código, estou sempre expandindo meus horizontes linguísticos e culturais. Sou fluente em inglês e possuo habilidades intermediárias em japonês, buscando constantemente aprimorar minha proficiência para me conectar com pessoas ao redor do mundo de maneira mais profunda e significativa.
-
-Estou animado para continuar minha jornada de aprendizado e colaboração, e estou sempre aberto a novas oportunidades e desafios que possam surgir no caminho.
 
 </p>
   <p align="center"><img width=50% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/71a38d2d8cd692a63fbde70f899b3afc.gif"></img></p>
