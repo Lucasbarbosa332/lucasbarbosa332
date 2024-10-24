@@ -1,13 +1,9 @@
 
 
-<h1 align="center"> 😎 私は誰ですか？ </h1>
+<h1 align="center"> Lucas Barbosa da Silva </h1>
 <p align="center" class="typewriter-text">
 
-
-# Lucas Barbosa da Silva
-
-
-
+--------------------------------------------------------------------------------------------------------
 
 </p>
   <p align="center"><img width=120% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/meu_banner-removebg-preview.png"></img></p>
