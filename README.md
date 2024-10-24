@@ -6,37 +6,7 @@
 
 # Lucas Barbosa da Silva
 
-Oi meu nome é Lucas e estou cursando ciência da computação, para mim tecnologia é uma forma de expressar a imaginação, procurando facilitar nossas vidas.
 
----
-
-## 🌟 Quem sou eu?
-
-![Lucas](https://raw.githubusercontent.com/Lucasbarbosa332/imagens/main/animated-3d.gif)
-
-こんにちは、私はルーカスです。継続的な学習と人とのつながりに情熱を注ぐフロントエンド開発者です。開発者としての歩みの中で、私はReact JS、HTML、CSS、JavaScript、Git、Node JS、Java、PHP、MySqlなどのテクノロジーの広大な海に身を投じてきました。
-
----
-
-## 🚀 Tecnologias e ferramentas
-
-- React JS
-- HTML & CSS
-- JavaScript
-- Node.js
-- Git
-- PHP, MySQL
-- Java
-
----
-
-### ✨ Como esse GIF foi gerado?
-
-Este GIF foi gerado a partir de uma simulação em 3D e adicionado como um toque dinâmico ao meu perfil. 
-
-Para ver projetos mais interativos, confira o link abaixo para uma demonstração ao vivo:
-
-🔗 [Veja meu portfólio](https://lucaslbddev.netlify.app)
 
 
 </p>
