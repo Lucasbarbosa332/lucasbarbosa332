@@ -33,7 +33,7 @@
   <div align="center">
   <a href="">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&theme=dracula&show_icons=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbarbosa332&layout=compact&theme=dracula" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&layout=compact&theme=dracula" />
 </div>
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
