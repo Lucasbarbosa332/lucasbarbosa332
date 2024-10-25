@@ -28,14 +28,7 @@
 </p>
 
   <p align="center"><img width=50% src="bemvindo-15.gif"></img></p>
- 
- <h1 align="center">📈 STATUS</h1>
-  <div align="center">
-  <a href="">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&theme=dracula&show_icons=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&layout=compact&theme=dracula" />
-</div>
- 
+
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 <h1 align="center">🧠 SKILLS</h1>
