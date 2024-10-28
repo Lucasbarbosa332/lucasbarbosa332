@@ -57,30 +57,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-     
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=onedarck)
 
-<br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&layout=compact)
-
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
 
 <div align="center">
 <a href='https://lucaslbdev.netlify.app/' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
