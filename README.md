@@ -11,7 +11,7 @@
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </p>
-  <p align="center"><img width=100% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/progamer.gif"></img></p>
+  <p align="center"><img width=70% height=70% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/progamer.gif"></img></p>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
