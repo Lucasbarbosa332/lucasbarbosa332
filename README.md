@@ -60,7 +60,7 @@
 
 
 <div align="center">
-<a href='https://lucaslbdev.netlify.app/' target='_blank'><img height='64' style='border:0px;height:200px;' src='https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/Bot%C3%A3o-removebg-preview.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://lucaslbdev.netlify.app/' target='_blank'><img height='64' style='border:0px;height:300px;' src='https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/Bot%C3%A3o-removebg-preview.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
