@@ -23,15 +23,19 @@
 
 <div align="center">
  
- 🔭 **
- 
- 🌱 **
+ 🔭 Hello! I'm Lucas, I'm 22 years old, studying Computer Science, and I'm from Brazil.**
 
-💬 **
+ 🌱 I'm seeking job opportunities to expand my experience and skills.**
 
-⚡ **
+ 💬 I work as a full stack developer.**
 
- </div>
+ 🌎 I'm fluent in English and have an intermediate level of Japanese.**
+
+ ⚡ I'm always open to new challenges and continuous learning to improve in the development field.**
+
+</div>
+
+
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
