@@ -60,8 +60,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- 
-  <br/><br/><br/>
+     
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarbosa332&show_icons=true&theme=onedarck)
+
+<br/><br/><br/>
 </div>
 
 <hr/>
@@ -69,7 +71,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarbosa332&layout=compact)
+
 </div>
 
 <br/><br/>
