@@ -7,7 +7,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Barbosa+Silva!;" />
 </h1>
---------------------------------------------------------------------------------------------------------
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </p>
   <p align="center"><img width=120% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/meu_banner-removebg-preview.png"></img></p>
