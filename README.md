@@ -10,13 +10,6 @@
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-</p>
-  <p align="center"><img width=70% height=70% src="https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/progamer.gif"></img></p>
-
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
-
 <h3 align="center"> </h3>
 
 <br/>
@@ -35,9 +28,9 @@
 
 </div>
 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
- 
 <div align="center"> 
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
