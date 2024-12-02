@@ -56,7 +56,6 @@
 <hr/>
 
 
-
 <div align="center">
 <a href='https://lucaslbdev.netlify.app/' target='_blank'><img height='64' style='border:0px;height:100px;' src='https://github.com/Lucasbarbosa332/lucasbarbosa332/blob/main/Bot%C3%A3o-removebg-preview%20(1).png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
