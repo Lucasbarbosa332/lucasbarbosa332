@@ -5,8 +5,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lucasbarbosa332" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Barbosa+Silva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは+みなさん!+👋;+Olá+pessoal!;+Hi+There!+👋;+I'm+Lucas+Barbosa+Silva!" />
 </h1>
+
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
